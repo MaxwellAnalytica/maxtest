@@ -1,0 +1,55 @@
+{
+    "context": "Recovery Core Library(build at: May  8 2022 10:18:01)",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.954"
+}
+{
+    "context": "failed to init E:\\SVN\\20220108\\maxwell\\bin\\maxtest\\ntfs.dll",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.968"
+}
+{
+    "context": "failed to init E:\\SVN\\20220108\\maxwell\\bin\\maxtest\\exfat.dll",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.969"
+}
+{
+    "context": "failed to init E:\\SVN\\20220108\\maxwell\\bin\\maxtest\\apfs.dll",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.969"
+}
+{
+    "context": "failed to init E:\\SVN\\20220108\\maxwell\\bin\\maxtest\\hfsp.dll",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.969"
+}
+{
+    "context": "failed to init E:\\SVN\\20220108\\maxwell\\bin\\maxtest\\carver.dll",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.969"
+}
+{
+    "context": "failed to init E:\\SVN\\20220108\\maxwell\\bin\\maxtest\\advance.dll",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.970"
+}
+{
+    "context": "failed to init E:\\SVN\\20220108\\maxwell\\bin\\maxtest\\recyclebin.dll",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.970"
+}
+{
+    "context": "init completed",
+    "level": 1,
+    "time": "2022-05-08 10:29:18.971"
+}
+{
+    "context": "start scanning",
+    "level": 1,
+    "time": "2022-05-08 10:29:35.094"
+}
+{
+    "context": "device size: 7593914368(B), offset: 0(B), sector size: 512(B), block size: 4096(B)",
+    "level": 1,
+    "time": "2022-05-08 10:29:35.095"
+}

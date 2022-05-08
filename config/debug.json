@@ -1,0 +1,9 @@
+{
+    
+	"save_path": "G:/test/",
+	 "whitelist": [
+		"hello.mp4",
+		"WPSettings.dat"
+	 ]
+   
+}

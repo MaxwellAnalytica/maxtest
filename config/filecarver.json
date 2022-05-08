@@ -1,0 +1,152 @@
+{
+    "carvers": [
+        {
+            "actived": true,
+            "algorithm": "",
+            "description": "jpeg file carve",
+            "developerId": 9,
+            "extension": "jpeg",
+            "footer": {
+                "characters": [
+                    {
+                        "context": "FFD9",
+                        "hex": true,
+                        "padding": 0,
+                        "size": 2
+                    }
+                ],
+                "logic": "&"
+            },
+            "header": {
+                "characters": [
+                    {
+                        "context": "FFD8FFE000",
+                        "hex": true,
+                        "offset": 0,
+                        "size": 5
+                    },
+                    {
+                        "context": "FFD8FFE100",
+                        "hex": true,
+                        "offset": 0,
+                        "size": 5
+                    }
+                ],
+                "logic": "|"
+            },
+            "option": "raw",
+            "truncate": 0
+        },
+        {
+            "actived": true,
+            "algorithm": "",
+            "description": "png file carve",
+            "developerId": 10,
+            "extension": "png",
+            "footer": {
+                "characters": [
+                    {
+                        "context": "49454E44",
+                        "hex": true,
+                        "padding": 4,
+                        "size": 4
+                    }
+                ],
+                "logic": "&"
+            },
+            "header": {
+                "characters": [
+                    {
+                        "context": "89504E470D0A1A0A",
+                        "hex": true,
+                        "offset": 0,
+                        "size": 8
+                    },
+                    {
+                        "context": "49484452",
+                        "hex": true,
+                        "offset": 12,
+                        "size": 4
+                    }
+                ],
+                "logic": "&"
+            },
+            "option": "raw",
+            "truncate": 0
+        },
+        {
+            "actived": true,
+            "algorithm": "",
+            "description": "rar file carve",
+            "developerId": 0,
+            "extension": "rar",
+            "footer": {
+                "characters": [
+                    {
+                        "context": "C43D7B00400700",
+                        "hex": true,
+                        "padding": 0,
+                        "size": 7
+                    }
+                ],
+                "logic": "&"
+            },
+            "header": {
+                "characters": [
+                    {
+                        "context": "526172211A0700",
+                        "hex": true,
+                        "offset": 0,
+                        "size": 7
+                    }
+                ],
+                "logic": "&"
+            },
+            "name": {
+                "offset": 46,
+                "padding": 4,
+                "size": 2
+            },
+            "option": "raw",
+            "truncate": 0
+        },
+        {
+            "actived": true,
+            "algorithm": "",
+            "description": "tiff file carve",
+            "developerId": 999,
+            "extension": "tiff",
+            "footer": {
+                "characters": [
+                    {
+                        "context": "49454E44",
+                        "hex": true,
+                        "padding": 4,
+                        "size": 4
+                    }
+                ],
+                "logic": "&"
+            },
+            "header": {
+                "characters": [
+                    {
+                        "context": "89504E470D0A1A0A",
+                        "hex": true,
+                        "offset": 0,
+                        "size": 8
+                    },
+                    {
+                        "context": "49484452",
+                        "hex": true,
+                        "offset": 12,
+                        "size": 4
+                    }
+                ],
+                "logic": "&"
+            },
+            "option": "raw",
+            "truncate": 0
+        }
+    ],
+    "protocol": "https://maxwellanalytica.com/filecarver/protocol"
+}
