@@ -53,3 +53,103 @@
     "level": 1,
     "time": "2022-05-08 10:29:35.095"
 }
+{
+    "context": "Recovery Core Library(build at: Jun 12 2022 15:08:22)",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.630"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\ntfs.dll",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.681"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\exfat.dll",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.694"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\apfs.dll",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.694"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\hfsp.dll",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.694"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\carver.dll",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.694"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\advance.dll",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.694"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\recyclebin.dll",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.694"
+}
+{
+    "context": "init completed",
+    "level": 1,
+    "time": "2022-06-12 15:27:16.694"
+}
+{
+    "context": "start scanning",
+    "level": 1,
+    "time": "2022-06-12 15:27:18.775"
+}
+{
+    "context": "device size: 5291704320(B), offset: 0(B), sector size: 512(B), block size: 4096(B)",
+    "level": 1,
+    "time": "2022-06-12 15:27:18.782"
+}
+{
+    "context": "Recovery Core Library(build at: Jun 12 2022 15:08:22)",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.537"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\ntfs.dll",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.568"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\exfat.dll",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.570"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\apfs.dll",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.570"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\hfsp.dll",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.570"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\carver.dll",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.570"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\advance.dll",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.570"
+}
+{
+    "context": "failed to init C:\\Users\\Administrator\\Desktop\\maxtest\\recyclebin.dll",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.570"
+}
+{
+    "context": "init completed",
+    "level": 1,
+    "time": "2022-06-12 15:28:07.570"
+}
