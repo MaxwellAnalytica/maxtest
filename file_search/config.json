@@ -1,0 +1,12 @@
+{
+	"Version": "6.1.2",
+	"URL": {
+		"Office": "https://www.whatsgarbage.com",
+		"CBS": "https://www.whatsgarbage.com/api-v1"
+	},
+	"ShowAd": false,
+	"Bucket": "wd-hangzhou-oss",
+	"LastUpdate": 132909028829920000,
+	"AppID": "0D326D43-2B7B-2507-B8420FC611682C60",
+	"LocationKey": "A6QBZ-WK4CW-56AR4-OGXFE-E63AS-4ZF4G"
+}

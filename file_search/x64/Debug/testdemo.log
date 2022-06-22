@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  search_file.cpp
+D:\code\restore_core\RecoveryCore\test\testdemo\src\search_file.cpp(70,85): warning C4267: “参数”: 从“size_t”转换到“int32_t”，可能丢失数据
+  testdemo.cpp
+  正在生成代码...
+  testdemo.vcxproj -> D:\code\bin\Debug\testdemo.exe

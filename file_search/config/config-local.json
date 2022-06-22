@@ -1,0 +1,10 @@
+{
+	"Version": "6.1.2",
+	"URL": {
+		"Office": "https://www.whatsgarbage.com",
+		"CBS": "http://127.0.0.1:8000/api-v1"
+	},
+	"ShowAd": false,
+	"LastUpdate": 132909028829920000,
+	"AppID": "0D326D43-2B7B-2507-B8420FC611682C60"
+}

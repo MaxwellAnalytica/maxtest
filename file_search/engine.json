@@ -1,0 +1,55 @@
+{
+    "protocol": "https://maxwellanalytica.com/filecarver/protocol",
+	"save_path": "G:\test\\",
+    "scanners": [
+        {
+            "actived": true,
+            "description": "New Technology File System",
+            "format": "ntfs",
+            "version": "5.1.0"
+        },
+        {
+            "actived": true,
+            "description": "File Allocation Table",
+            "format": "fat",
+            "version": "10.2.0"
+        },
+        {
+            "actived": true,
+            "description": "Extended File Allocation Table File System",
+            "format": "exfat",
+            "version": "3.2.0"
+        },
+        {
+            "actived": true,
+            "description": "Apple File System",
+            "format": "apfs",
+            "version": "2.5.0"
+        },
+        {
+            "actived": true,
+            "description": "Mac OS Extended File System",
+            "format": "hfsp",
+            "version": "12.0.0"
+        },
+        {
+            "actived": true,
+            "description": "Multiple File Carver",
+            "format": "carver",
+            "version": "1.2.0"
+        },
+        {
+            "actived": true,
+            "description": "Advance File Carver",
+            "format": "advance",
+            "version": "1.0.0"
+        },
+        {
+            "actived": true,
+            "description": "Recyclebin Recovery",
+            "format": "recyclebin",
+            "version": "1.0.0"
+        }
+    ]
+
+}

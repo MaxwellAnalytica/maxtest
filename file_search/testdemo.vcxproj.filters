@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="interface">
+      <UniqueIdentifier>{ac48c579-94c9-43d5-9de7-f0d4ebf1b798}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Devicer">
+      <UniqueIdentifier>{67f17fb9-4e50-457c-89be-0a9010600186}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Scanner">
+      <UniqueIdentifier>{a22a3a0f-3c3b-46c9-b43c-74f700b74670}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\DataMger">
+      <UniqueIdentifier>{7793c6a4-0f42-412c-916c-ba5627fa4a39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Recover">
+      <UniqueIdentifier>{b3224916-2a67-4bc7-a203-691472bbcbc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="json">
+      <UniqueIdentifier>{2bbb7662-4aa4-466d-9359-3395c563bd28}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="testdemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\device_store.cpp">
+      <Filter>源文件\Devicer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\search_file.cpp">
+      <Filter>源文件\Scanner</Filter>
+    </ClCompile>
+    <ClCompile Include="src\notify_item.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\file_store.cpp">
+      <Filter>源文件\DataMger</Filter>
+    </ClCompile>
+    <ClCompile Include="src\recover_item.cpp">
+      <Filter>源文件\Recover</Filter>
+    </ClCompile>
+    <ClCompile Include="ScanDocumentation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\includes\irecoverycore.h">
+      <Filter>interface</Filter>
+    </ClInclude>
+    <ClInclude Include="src\notify_item.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\device_store.h">
+      <Filter>源文件\Devicer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\search_file.h">
+      <Filter>源文件\Scanner</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\includes\datatype.h">
+      <Filter>interface</Filter>
+    </ClInclude>
+    <ClInclude Include="src\file_store.h">
+      <Filter>源文件\DataMger</Filter>
+    </ClInclude>
+    <ClInclude Include="src\recover_item.h">
+      <Filter>源文件\Recover</Filter>
+    </ClInclude>
+    <ClInclude Include="ScanDocumentation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

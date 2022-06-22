@@ -1,0 +1,92 @@
+{
+    "advances": [
+        {
+            "actived": true,
+            "description": "MP4",
+            "format": "mp4",
+            "version": "1.0.0"
+        },
+        {
+            "actived": false,
+            "description": "MOV",
+            "format": "mov",
+            "version": "1.0.0"
+        },
+        {
+            "actived": false,
+            "description": "PDF",
+            "format": "pdf",
+            "version": "1.0.0"
+        },
+        {
+            "actived": false,
+            "description": "DWG",
+            "format": "dwg",
+            "version": "1.0.0"
+        },
+        {
+            "actived": false,
+            "description": "MKV",
+            "format": "mkv",
+            "version": "1.0.0"
+        },
+        {
+            "actived": false,
+            "description": "AVI",
+            "format": "avi",
+            "version": "1.0.0"
+        }
+    ],
+    "scanners": [
+        {
+            "actived": true,
+            "description": "New Technology File System",
+            "format": "ntfs",
+            "version": "1.0.0"
+        },
+        {
+            "actived": true,
+            "description": "New Technology File System",
+            "format": "fat",
+            "version": "1.0.0"
+        },
+        {
+            "actived": true,
+            "description": "New Technology File System",
+            "format": "exfat",
+            "version": "1.0.0"
+        },
+        {
+            "actived": true,
+            "description": "Apple File System",
+            "format": "apfs",
+            "version": "1.0.0"
+        },
+        {
+            "actived": true,
+            "description": "New Technology File System",
+            "format": "hfsp",
+            "version": "1.0.0"
+        },
+        {
+            "actived": true,
+            "description": "New Technology File System",
+            "format": "carver",
+            "version": "1.0.0"
+        },
+        {
+            "actived": true,
+            "description": "New Technology File System",
+            "format": "advance",
+            "version": "1.0.0"
+        },
+        {
+            "actived": true,
+            "description": "New Technology File System",
+            "format": "recyclebin",
+            "version": "1.0.0"
+        }
+    ],
+    "version": "6.1.2",
+	"save_path": "G:\test\\"
+}

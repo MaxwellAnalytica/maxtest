@@ -1,0 +1,13 @@
+{
+    
+	"save_path": "G:/test/",
+	"scan_path": "",
+	 "whitelist": [
+		"hello.mp4",
+		"WPSettings.dat",
+		"005.jpg",
+		"33333.png",
+		"030.jpg"
+	 ]
+   
+}
